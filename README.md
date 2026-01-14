@@ -79,4 +79,4 @@ investors and founders assess risk.
 
 ## Author
 ** Chandan.NG
-**Aspiring Data Scientist AI| ML Engineering
+**Aspiring Data Scientist AI| ML 
